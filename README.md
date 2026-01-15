@@ -1,4 +1,4 @@
-# FEA_pytho
+# FEA with Python
 
 
 # 1. Como este código funciona?
